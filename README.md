@@ -4,6 +4,8 @@ In order to install and work with Linkerd, you need a Kubernetes cluster to work
 
 I am using [minikube](https://minikube.sigs.k8s.io/docs/start/) on Fedora 35 (and windows).
 
+But feel free to use which ever alternative you have.
+
 ## Step 1 "CLI Installation"
 
 Download and install the linkerd CLI onto your local machine.
